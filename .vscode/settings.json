@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/158c0753-3929-4e1a-8d24-8342463c1886/resourceGroups/DataqaResourceGroup/providers/Microsoft.Web/sites/msdocs-python-flask-webapp-qa",
+    "appService.deploySubpath": "."
+}
